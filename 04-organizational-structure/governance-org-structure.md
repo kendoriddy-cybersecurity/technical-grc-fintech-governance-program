@@ -110,6 +110,32 @@ Chief Information Security Officer (CISO)
 
 ---
 
+## Executive Committee
+
+**IT Steering Committee** _(NEW COMMITTEE)_
+
+### Chair:
+
+Chief Information Security Officer (CISO)
+
+### Members:
+
+Chief Technology Officer (CTO), Chief Financial Officer (CFO), VP of Engineering, Head of Product, Head of GRC / GRC Manager
+
+### Meeting Cadence:
+
+Monthly
+
+### Responsibilities:
+
+- Align business priorities with security investments
+- Review risk changes and compliance resource constraints
+- Integrate security strategy into product engineering timelines
+- Review security project schedules and governance KPI escalations
+- Coordinate cross-functional remediation of off-track governance metrics
+
+---
+
 # TEAMS
 
 ---
@@ -196,6 +222,14 @@ Head of Governance, Risk & Compliance (GRC Manager)
 ### c.
 
 Security Operations & Incident Response Team
+
+---
+
+# Executive committees being established
+
+### a.
+
+IT Steering Committee
 
 ---
 

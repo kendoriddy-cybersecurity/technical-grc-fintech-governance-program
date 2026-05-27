@@ -76,6 +76,24 @@ Chief Information Security Officer (CISO) in collaboration with the Head of GRC
 
 ---
 
+# 3.1 GOVERNANCE BODIES
+
+This program is overseen through the following formally established governance bodies, as defined in the Governance Organizational Structure document (Activity 3):
+
+### Board-level committees:
+
+- **Board Risk & Security Committee** — cybersecurity risk oversight, governance program oversight, major incident review, risk appetite approval, quarterly security reporting review, and ISO 27001 readiness oversight
+- **Audit & Compliance Committee** — regulatory compliance oversight, internal audit coordination, PCI-DSS and GDPR compliance monitoring, and audit findings remediation review
+- **Technology & Innovation Committee** — technology strategy oversight, cloud governance, major technology investments, technology risk evaluation, and alignment between engineering and business goals
+
+### Executive-level committee:
+
+- **IT Steering Committee** — cross-functional alignment of business priorities, security investments, compliance constraints, and product engineering timelines (chaired by the CISO; meets monthly)
+
+These bodies replace prior informal coordination practices (such as unstructured weekly alignment calls among the CTO, CFO, and VP of Engineering) and constitute the authoritative governance structure for VaultEdge.
+
+---
+
 # 4. OBJECTIVES
 
 a. Establish a formal information security and IT governance structure with clearly defined accountability and reporting lines.
@@ -88,7 +106,7 @@ d. Ensure compliance with applicable regulatory and contractual obligations incl
 
 e. Reduce the likelihood and impact of cybersecurity incidents through the implementation of appropriate controls, monitoring, awareness training, and incident response capabilities.
 
-f. Improve visibility, oversight, and governance reporting through defined KPIs, board reporting mechanisms, and governance committees.
+f. Improve visibility, oversight, and governance reporting through defined KPIs, board reporting mechanisms, and the governance bodies established in Section 3.1 (Board Risk & Security Committee, Audit & Compliance Committee, Technology & Innovation Committee, and IT Steering Committee).
 
 g. Strengthen customer trust, investor confidence, and operational resilience by implementing sustainable governance, risk, and compliance practices aligned with industry standards.
 
