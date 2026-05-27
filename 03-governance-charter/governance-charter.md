@@ -131,5 +131,5 @@ This charter shall be reviewed annually or upon significant organizational, regu
 
 **Approved by:** Sarah Chen  
 **Title:** Chief Executive Officer (CEO)  
-**Date:** **************\_\_\_**************  
-**Signature:** **************\_\_\_**************
+**Date:** May 27, 2026  
+**Signature:** Sarah Chen
