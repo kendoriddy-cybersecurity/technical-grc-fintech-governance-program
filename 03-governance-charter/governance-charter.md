@@ -4,7 +4,7 @@
 
 **Version:** 1.0  
 **Date:** May 27, 2026  
-**Status:** DRAFT  
+**Status:** APPROVED  
 **Owner:** Head of GRC / Chief Information Security Officer (CISO)
 
 ---
@@ -37,7 +37,7 @@ All VaultEdge operational locations including:
 - Berlin, Germany
 - Singapore
 - Nairobi, Kenya
-- Remote employees and contractors globally
+- Remote employees and contractors (USA and globally)
 
 ### Systems:
 
