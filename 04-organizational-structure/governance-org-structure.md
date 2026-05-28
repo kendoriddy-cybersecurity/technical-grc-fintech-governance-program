@@ -4,6 +4,56 @@
 
 # GOVERNANCE ORGANIZATIONAL STRUCTURE
 
+```mermaid
+flowchart TB
+    subgraph board["Board level"]
+        BD["Board of Directors"]
+        BRSC["Board Risk & Security Committee"]
+        ACC["Audit & Compliance Committee"]
+        TIC["Technology & Innovation Committee"]
+        BD --> BRSC
+        BD --> ACC
+        BD --> TIC
+    end
+
+    subgraph executive["Executive level"]
+        CEO["Chief Executive Officer"]
+        CISO["Chief Information Security Officer (NEW)"]
+        HGRC["Head of GRC / GRC Manager (NEW)"]
+        CEO --> CISO
+        CISO --> HGRC
+    end
+
+    subgraph itsc["IT Steering Committee (NEW) — monthly"]
+        ITSC_CHAIR["Chair: CISO"]
+        ITSC_CTO["CTO"]
+        ITSC_CFO["CFO"]
+        ITSC_VPE["VP of Engineering"]
+        ITSC_HOP["Head of Product"]
+        ITSC_HGRC["Head of GRC / GRC Manager"]
+        ITSC_CHAIR --- ITSC_CTO
+        ITSC_CHAIR --- ITSC_CFO
+        ITSC_CHAIR --- ITSC_VPE
+        ITSC_CHAIR --- ITSC_HOP
+        ITSC_CHAIR --- ITSC_HGRC
+    end
+
+    subgraph teams["Teams"]
+        SECOPS["Security Operations & Incident Response (NEW)"]
+        GRCT["Governance, Risk & Compliance Team (NEW)"]
+        ITGOV["IT Governance & Infrastructure"]
+        CISO --> SECOPS
+        HGRC --> GRCT
+        CISO --> ITGOV
+    end
+
+    BD -.->|oversight| CEO
+    CISO -.->|chairs| ITSC_CHAIR
+    HGRC -.->|member| ITSC_HGRC
+```
+
+Solid lines show reporting relationships. Dotted lines show board oversight and committee participation. Team placement reflects governance accountability; operational infrastructure may still coordinate with engineering leadership.
+
 ---
 
 # BOARD LEVEL
